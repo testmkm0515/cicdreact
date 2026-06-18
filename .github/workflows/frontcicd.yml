@@ -1,0 +1,26 @@
+# frontend cicd
+name: front cicd
+
+on:
+  pull_request: 
+    branches: ["main"]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.0
+
+      - name: Build (Vite)
+        run: yarn build
+
+      - name: Build & Push Docker Image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: |
+            ghcr.io/<유저명>/<프로젝트명>:latest
+            ghcr.io/<유저명>/<프로젝트명>:${{ github.sha }}
