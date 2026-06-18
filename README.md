@@ -1,16 +1,63 @@
-# React + Vite
+<!-- Slide number: 1 -->
+# 프로젝트 안내
+깃허브 및 참고사항
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- Slide number: 2 -->
+# 깃 허브 관련 안내
+프로젝트 협업 환경
+GitHub
+실무 표준 협업환경으로 많이 사용 됨
+개발 이력 구성 및 개발 성과 표현용도로 포트폴리오에 추가하는 추세 임
+역할
+팀장 : Repository 생성, 브랜치 관리, 규칙설정
+팀원 : Branch, PR, Issue등 사용 협업 참여
 
-Currently, two official plugins are available:
+![그림 4](그림4.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<!-- Slide number: 3 -->
+# 프로젝트 기간별 훈련생 로드맵
 
-## React Compiler
+![내용 개체 틀 4](내용개체틀4.jpg)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<!-- Slide number: 4 -->
+# 최종 산출물
+깃허브 메인 Repo에 최종 산출물 제출(필수)
+프로젝트 진행 단계별 제작되는 필수 산출물을 메인에 저장소 구성해서 저장
 
-## Expanding the ESLint configuration
+![그림 4](그림4.jpg)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<!-- Slide number: 5 -->
+# 관련 가이드 링크
+https://www.notion.so/GitHub-2860ba75751a80c29facd3859129bc3b
+
+![그림 4](그림4.jpg)
+
+<!-- Slide number: 6 -->
+# 프로젝트 관련 전달 사항
+
+<!-- Slide number: 7 -->
+
+![그림 3](그림3.jpg)
+
+<!-- Slide number: 8 -->
+# 프로젝트 유의사항
+쉬는시간은 50분 진행 10분 쉬는시간이 원칙입니다
+소회의실에서도 비디오는 반드시 켜 놓고 유지하셔야 합니다
+소회의실에서 오랫동안 개별 업무 진행하다보면
+소회의실 접속이 끊어질 수 있습니다
+너무 오래 접속이 끊어지면 출결 문제 있을 수 있으니 접속을 주기적으로 확인하시기 바랍니다
+프로젝트 개발이나 진행관련 질문은 메인세션으로 이동하셔서 질문하시기 바랍니다
+프로젝트 기간동안은 소회의실 접속이 우선입니다
+질문이 없는데 메인세션에 오래 머무르면 안됩니다
+2개 이상 접속하시는 경우에도 모든 접속을 소회의실로 이동하시기 바랍니다
+
+<!-- Slide number: 9 -->
+# 프로젝트 유의 사항 2
+프로젝트 진행 시
+팀에 이슈가 발생 시 반드시 강사나 매니저에게 알려 문제를 공유하고 같이 문제를 해결 합니다
+팀 작업 이다보니
+모두 성실하게 참여해야 하고
+내 업무는 최대한 완수하고 다른 팀원을 배려해야 합니다
+개별 사정으로 결석이나 조퇴가 불가피한 경우
+타 팀원에게 반드시 공유해야 합니다
+팀장님은 팀원 부재 사유를 강사에게 슬랙 DM으로 알려주시기 바랍니다
