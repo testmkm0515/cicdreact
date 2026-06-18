@@ -22,5 +22,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/<유저명>/<프로젝트명>:latest
-            ghcr.io/<유저명>/<프로젝트명>:${{ github.sha }}
+            ghcr.io/testmkm0515/cicdreact:latest
+            ghcr.io/testmkm0515/cicdreact:${{ github.sha }}
