@@ -1,4 +1,4 @@
-# frontend cicd
+# frontend cicd ubuntu로 소유주 변경
 name: front cicd
 
 on:
